@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SreenandaSai-Dasari
+- 👋 Hi, I’m @SreenandaSai Dasari
 - 👀 I’m interested in becoming an all round Data Scientist
 - 🌱 I’m currently working on clearing certifications and building my profile
 - 💞️ I’m looking to collaborate on any data science related project for learning
