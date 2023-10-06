@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming an all round Data Scientist
 - 🌱 I’m currently working on clearing certifications and building my profile
 - 💞️ I’m looking to collaborate on any data science related project for learning
-- 📫 How to reach me ... reach me on sreenandasai.dasari@gmail.com/ www.linkedin.com/in/nandasai-dasari
+- 📫 How to reach me ... reach me on sreenandasai.dasari@gmail.com / www.linkedin.com/in/nandasai-dasari
 
 
 
