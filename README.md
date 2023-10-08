@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming an all round Data Scientist
 - 🌱 I’m currently working on improving my technical skills and clear certifications.
 - 💞️ I’m looking to collaborate on any data science related project for learning.
-- 💞️ I’m skilled in Python, SQL, Excel, Tableau, Machine Learning, Hive.
+- 💞️ I’m skilled in Python, SQL, Excel, Tableau, Machine Learning, BigQuery, Attribution Modeling.
 - 📫 How to reach me ... reach me on sreenandasai.dasari@gmail.com / www.linkedin.com/in/nandasai-dasari
 
 
